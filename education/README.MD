@@ -1,7 +1,9 @@
-![alt text](1_DSTU.jpg "Title")
-![alt text](2_os_py.jpg "Title")
-![alt text](3_eng_.jpg "Title")
-![alt text](4_bd_.jpg "Title")
-![alt text](5_Git.jpg "Title")
+# Высшее образование:
+![](1_DSTU.jpg)
+# Повышение квалификации, курсы:
+![](3_eng_.jpg)
+![](2_os_py.jpg)
+![](4_bd_.jpg)
+![](5_Git.jpg)
 
 
