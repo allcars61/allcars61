@@ -13,7 +13,7 @@ Fullstack-разработчик, Web разработчик, Разработч
 ![UnitTest](https://img.shields.io/badge/UnitTest-UnitTest-yellow?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![Doctest](https://img.shields.io/badge/Doctest-Doctest-yellow?style=for-the-badge&logo=python&logoColor=ffdd54)
-
+![WebApi](https://img.shields.io/badge/WebApi-WebApi-blue?style=for-the-badge&logo=selenium&logoColor=white)
 
 ,  Web API, DOM,, TypeScript, Drag & Drop, QL/NoSQL ,, Pytest, Unittest, Doctest,, Bash, , Git/GitHub, API,
 
