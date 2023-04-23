@@ -1,5 +1,7 @@
 [![Привет!](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Привет!)](https://git.io/typing-svg)
-# Я Александр Толканев, Fullstack-разработчик, Web разработчик, Разработчик на Python, Аналитик на Python.
+# Я Александр Толканев. 
+
+Fullstack-разработчик, Web разработчик, Разработчик на Python, Аналитик на Python.
 
 # Мой стек:
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
