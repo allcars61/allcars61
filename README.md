@@ -10,13 +10,10 @@ Fullstack-разработчик, Web разработчик, Разработч
 ![PyTest](https://img.shields.io/badge/PyTest-PyTest-brightgreen?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ![NoSQL](https://img.shields.io/badge/NoSQL-NoSQL-blue?style=for-the-badge&logo=sqlite&logoColor=white)
+![UnitTest](https://img.shields.io/badge/UnitTest-UnitTest-yellow?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![Doctest](https://img.shields.io/badge/Doctest-Doctest-yellow?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-![Hackerrank]([[https://img.shields.io/badge/-Hackerrank-2EC866?style](https://img.shields.io/badge/BASH-BASH-lightgrey
-)=for-the-badge&logo=HackerRank&logoColor=white](https://img.shields.io/badge/BASH-BASH-lightgrey))
-https://img.shields.io/badge/BASH-BASH-lightgrey
-
-[<img src="executing-bash-script-on-multiple-remote-server=data:image/png ;base64,DATA">](<LINK>)
 
 ,  Web API, DOM,, TypeScript, Drag & Drop, QL/NoSQL ,, Pytest, Unittest, Doctest,, Bash, , Git/GitHub, API,
 
