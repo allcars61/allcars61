@@ -9,7 +9,7 @@ Fullstack-разработчик, Web разработчик, Разработч
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=allcars61&theme=dark)](https://github.com/allcars61/leetcode-stats)
 
-![](https://leetcard.jacoblin.cool/jacoblincool?theme=unicorn)
+![Leetcode Stats](https://leetcard.jacoblin.cool/allcars61?theme=dark)
 
 
 
