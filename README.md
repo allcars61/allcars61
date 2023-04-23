@@ -8,30 +8,7 @@ Fullstack-разработчик, Web разработчик, Разработч
 
 <!--![Leetcode Stats](https://leetcard.jacoblin.cool/allcars61?theme=dark)-->
 # Образование и курсы:
-<image src="https://picsum.photos/800/600" alt="Описание картинки">
 
-.image-scroller {
-    height: 640px;
-    -moz-user-select: none;
-    overflow: hidden;
-    position: relative;
-    -webkit-user-select: none;
-    width: 960px;
-}
-.image-scroller img {
-    display: block;
-    left: 0;
-    position: absolute;
-    top: 0;
-}
-.image-scroller .preview {
-    border: 5px solid #fff;
-    bottom: 20px;
-    height: 190px;
-    left: 20px;
-    position: absolute;
-    width: 135px;
-}
 
 
 
