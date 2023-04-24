@@ -68,7 +68,7 @@ Fullstack-разработчик, Web разработчик, Разработч
 
 
 ## Контакты:
-### [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/allcars61)[![LinkedIn](https://img.shields.io/badge/-Whatsapp-090909?style=for-the-badge&logo=Whatsapp&logoColor=007BB6)](https://api.whatsapp.com/send/?phone=79185544300)[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksandr-tolkanev-912b9820b/)
+### [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/allcars61) [![LinkedIn](https://img.shields.io/badge/-Whatsapp-090909?style=for-the-badge&logo=Whatsapp&logoColor=007BB6)](https://api.whatsapp.com/send/?phone=79185544300) [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=007BB6)](https://www.linkedin.com/in/aleksandr-tolkanev-912b9820b/)
 
 ## 
 <div id="header" align="center">
