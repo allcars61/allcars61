@@ -5,5 +5,5 @@
 ![](2_os_py.jpg)
 ![](4_bd_.jpg)
 ![](5_Git.jpg)
-
+![](6_pr_py.jpg)
 
