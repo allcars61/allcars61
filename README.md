@@ -21,12 +21,6 @@ Fullstack-разработчик, Web разработчик, Разработч
 ### [Резервное копирование VK](https://github.com/allcars61/prf_vk/)<br/>
 ### [БД музыкального сайта](https://github.com/allcars61/pfr_bd/)<br/>
 
-<div id="header" align="center">
-  
-![](https://leetcard.jacoblin.cool/allcars61?site=us)
-
-
-
 
 ### Контакты:
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/allcars61)
@@ -34,8 +28,9 @@ Fullstack-разработчик, Web разработчик, Разработч
 
 
 
-
-
+<div id="header" align="center">
+  
+![](https://leetcard.jacoblin.cool/allcars61?site=us)
 
 
 
