@@ -75,7 +75,11 @@ Fullstack-разработчик, Web разработчик, Разработч
 ## 
 <div id="header" align="center">
   
-![](https://leetcard.jacoblin.cool/allcars61?site=us)
+![](https://github-readme-stats.vercel.app/api?username=allcars61&show_icons=true&theme=transparent)
+  
+  
+[![LeetCode stats](https://leetcode-stats-six.vercel.app/?username=allcars61&theme=dark)](https://github.com/allcars61/leetcode-stats)
+
 
 
 
