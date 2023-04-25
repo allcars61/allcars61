@@ -65,6 +65,7 @@ Fullstack-разработчик, Web разработчик, Разработч
 ### [Резервное копирование VK](https://github.com/allcars61/prf_vk/)<br/>
 ### [БД музыкального сайта](https://github.com/allcars61/pfr_bd/)<br/>
 ### [Веб-скрапинг](https://github.com/allcars61/pfr_wb_skr)<br/>
+### [Tests](https://github.com/allcars61/pfr_test)<br/>
 
 
 ## Контакты:
