@@ -50,6 +50,9 @@ Fullstack-разработчик, Web разработчик, Разработч
 ![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
 ![BASH](https://img.shields.io/badge/BASH-%23092E20.svg?style=for-the-badge&logo=BASH&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![Asyncio](https://img.shields.io/badge/Asyncio-%23000.svg?style=for-the-badge&logo=Asyncio&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-657D8B?style=for-the-badge&logo=Celery&logoColor=FFFFFF)
+![Aiohttp](https://img.shields.io/badge/Aiohttp-657D8B?style=for-the-badge&logo=Aiohttp&logoColor=FFFFFF)
 ![WebApi](https://img.shields.io/badge/WebApi-005571?style=for-the-badge&logo=WebApi)<br/><br/></div>
 
 
