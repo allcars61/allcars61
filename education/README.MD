@@ -6,4 +6,4 @@
 ![](4_bd_.jpg)
 ![](5_Git.jpg)
 ![](6_pr_py.jpg)
-
+![](7_dj_py.jpg)
